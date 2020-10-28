@@ -3,12 +3,12 @@ body{
 }
 
 h1{
-					color: darkblue;
+					color: white;
 					font-size: 90px; 
 					text-decoration: underline;				}
 				h2 {
 					font-size: 33px;
-					color: purple;
+					color: salmon;
 									}
 									#first { font-size: 150px; }
 									.small{
@@ -19,4 +19,13 @@ h1{
 									}
 								h2 span {
 									text-decoration: line-through;
+								}
+								.links {
+									color: white; 
+									font-size: 37px;
+									 text-decoration: underline;
+  -webkit-text-decoration-color: salmon;
+  text-decoration-color: salmon;
+  -webkit-text-decoration-style: wavy;
+  text-decoration-style: wavy;
 								}
